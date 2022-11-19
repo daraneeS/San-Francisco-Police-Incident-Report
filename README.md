@@ -3,7 +3,7 @@
 - About **600,000 San Francisco Police Incident Report from 2018-2022** 
 - Dataset: **DataSF**
 - Count total incidents group by Neighborhoods
-- Visualize using **GeoJson data with Foliium and OpenStreetMap**
+- Visualize using **GeoJson** data with **Foliium** and **OpenStreetMap**
 - **Deploy web app on Netlify**
 #### [https://sanfrancisco-incidents-2018-2022.netlify.app/](https://sanfrancisco-incidents-2018-2022.netlify.app/)
 
