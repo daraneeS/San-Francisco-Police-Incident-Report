@@ -1,6 +1,6 @@
 # San Francisco Incidents Report 2018-2022
 ## Overview
-- About **600,000 San Francisco Police Incident Report from 2018-2022** 
+- About **600,000 rows of San Francisco Police Incident Report from 2018-2022** 
 - Dataset: **DataSF**
 - Count total incidents group by Neighborhoods
 - Visualize using **GeoJson** data with **Folium** and **OpenStreetMap**
