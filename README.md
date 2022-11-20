@@ -7,7 +7,7 @@
 - **Deploy web app on Netlify**
 #### [https://sanfrancisco-incidents-2018-2022.netlify.app/](https://sanfrancisco-incidents-2018-2022.netlify.app/)
 
-![](sf_map.gif)
+![](images/sf_map.gif)
 
 ## Total Cases Per Year
 ![png](images/cases_by_year.png)
