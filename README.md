@@ -4,7 +4,7 @@
 - Dataset: **DataSF**
 - Count total incidents group by Neighborhoods
 - Visualize using **GeoJson** data with **Folium** and **OpenStreetMap**
-- **Deploy Dash Interactive web app on rendor**
+- **Deploy Dash Interactive web app on render**
 #### [https://sf-crime-cases.onrender.com//](https://sf-crime-cases.onrender.com/)
 
 ![](images/sf_map.gif)
