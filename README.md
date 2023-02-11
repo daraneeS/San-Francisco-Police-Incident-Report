@@ -4,8 +4,9 @@
 - Dataset: **DataSF**
 - Count total incidents group by Neighborhoods
 - Visualize using **GeoJson** data with **Folium** and **OpenStreetMap**
-- **Deploy Dash Interactive web app on render**
+- **Deploy Dash Interactive web app on render and netlify**
 
+[https://sanfrancisco-incidents-2018-2022.netlify.app/](https://sanfrancisco-incidents-2018-2022.netlify.app/)
 
 ![](images/sf_map.gif)
 
